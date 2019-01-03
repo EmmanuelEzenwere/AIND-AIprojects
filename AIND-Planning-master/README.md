@@ -1,5 +1,5 @@
 
-# Implement a Planning Search
+# Implement a Planning and Search AI
 
 ## Synopsis
 
