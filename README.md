@@ -1,2 +1,2 @@
 # Udacity-AIND
-Portfolio of projects completed for the udacity AIND course
+Portfolio of my projects completed for the udacity AIND course
